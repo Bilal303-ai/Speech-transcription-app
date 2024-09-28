@@ -1,0 +1,4 @@
+gradio
+transformers
+torchaudio
+numpy
