@@ -48,6 +48,6 @@ This app uses the **Whisper model**, a powerful speech recognition model develop
 You can access the live demo of the app on [GitHub Pages](https://bilal303-ai.github.io/Speech-transcription-app/).
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENCE](https://github.com/Bilal303-ai/Speech-transcription-app/blob/main/LICENSE) file for more details.
 
 
