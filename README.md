@@ -26,7 +26,7 @@ This application provides an easy-to-use interface for transcribing speech into 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bilal303-ai/Speech-transcription-app
-   cd speech-transcription-app
+   cd Speech-transcription-app
    ```
 2. Install the required packages:
    ```bash
